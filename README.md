@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/marufnishan111/Solutions/tree/master/0202-happy-number) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/marufnishan111/Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/marufnishan111/Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/marufnishan111/Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2974-minimum-number-game](https://github.com/marufnishan111/Solutions/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/marufnishan111/Solutions/tree/master/2974-minimum-number-game) |
+## Greedy
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/marufnishan111/Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
