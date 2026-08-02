@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/marufnishan111/Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/marufnishan111/Solutions/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/marufnishan111/Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/marufnishan111/Solutions/tree/master/0877-stone-game) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/marufnishan111/Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/marufnishan111/Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/marufnishan111/Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/marufnishan111/Solutions/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/marufnishan111/Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/marufnishan111/Solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/marufnishan111/Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/marufnishan111/Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/marufnishan111/Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -85,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/marufnishan111/Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/marufnishan111/Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/marufnishan111/Solutions/tree/master/0342-power-of-four) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/marufnishan111/Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/marufnishan111/Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
