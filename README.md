@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/marufnishan111/Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/marufnishan111/Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/marufnishan111/Solutions/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/marufnishan111/Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/marufnishan111/Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/marufnishan111/Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/marufnishan111/Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
