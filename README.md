@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/marufnishan111/Solutions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/marufnishan111/Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/marufnishan111/Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/marufnishan111/Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/marufnishan111/Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/marufnishan111/Solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/marufnishan111/Solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/marufnishan111/Solutions/tree/master/3024-type-of-triangle) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/marufnishan111/Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/marufnishan111/Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
