@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/marufnishan111/Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/marufnishan111/Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/marufnishan111/Solutions/tree/master/3024-type-of-triangle) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/marufnishan111/Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/marufnishan111/Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/marufnishan111/Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/marufnishan111/Solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/marufnishan111/Solutions/tree/master/3019-number-of-changing-keys) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/marufnishan111/Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Queue
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/marufnishan111/Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/marufnishan111/Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Array
 |  |
 | ------- |
