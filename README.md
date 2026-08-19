@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/marufnishan111/Solutions/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/marufnishan111/Solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/marufnishan111/Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/marufnishan111/Solutions/tree/master/0231-power-of-two) |
