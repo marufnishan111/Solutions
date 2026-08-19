@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/marufnishan111/Solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/marufnishan111/Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/marufnishan111/Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/marufnishan111/Solutions/tree/master/0326-power-of-three) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/marufnishan111/Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/marufnishan111/Solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/marufnishan111/Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/marufnishan111/Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/marufnishan111/Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/marufnishan111/Solutions/tree/master/0067-add-binary) |
 | [2974-minimum-number-game](https://github.com/marufnishan111/Solutions/tree/master/2974-minimum-number-game) |
 ## Greedy
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/marufnishan111/Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/marufnishan111/Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/marufnishan111/Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/marufnishan111/Solutions/tree/master/0342-power-of-four) |
