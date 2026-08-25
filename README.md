@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/marufnishan111/Solutions/tree/master/0389-find-the-difference) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/marufnishan111/Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/marufnishan111/Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/marufnishan111/Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/marufnishan111/Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/marufnishan111/Solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/marufnishan111/Solutions/tree/master/3024-type-of-triangle) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/marufnishan111/Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/marufnishan111/Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/marufnishan111/Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
