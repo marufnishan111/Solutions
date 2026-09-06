@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/marufnishan111/Solutions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/marufnishan111/Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/marufnishan111/Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1952-three-divisors](https://github.com/marufnishan111/Solutions/tree/master/1952-three-divisors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/marufnishan111/Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/marufnishan111/Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/marufnishan111/Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/marufnishan111/Solutions/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/marufnishan111/Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sliding Window
 |  |
@@ -187,4 +189,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/marufnishan111/Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/marufnishan111/Solutions/tree/master/0191-number-of-1-bits) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/marufnishan111/Solutions/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/marufnishan111/Solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/marufnishan111/Solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
