@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/marufnishan111/Solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/marufnishan111/Solutions/tree/master/3019-number-of-changing-keys) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/marufnishan111/Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3498-reverse-degree-of-a-string](https://github.com/marufnishan111/Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/marufnishan111/Solutions/tree/master/0067-add-binary) |
 | [2390-removing-stars-from-a-string](https://github.com/marufnishan111/Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/marufnishan111/Solutions/tree/master/2974-minimum-number-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/marufnishan111/Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
