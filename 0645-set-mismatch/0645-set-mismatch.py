@@ -2,12 +2,10 @@ class Solution:
     def findErrorNums(self, v: list[int]) -> list[int]:
         n=len(v)
         v.sort()
-        m=[]
+        m=0
         for i in range(n-1):
             if v[i]==v[i+1]:
-                m.append(v[i])
-        for i in range(1,n+1):
-            if i not in v:
-                m.append(i)
+                m=v[i]
                 break
-        return m
+        s=(n*(n+1)//2)-sum(v)+m
+        return [m,s]
