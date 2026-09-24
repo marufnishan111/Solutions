@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/marufnishan111/Solutions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/marufnishan111/Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/marufnishan111/Solutions/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/marufnishan111/Solutions/tree/master/0645-set-mismatch) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/marufnishan111/Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/marufnishan111/Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/marufnishan111/Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/marufnishan111/Solutions/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/marufnishan111/Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/marufnishan111/Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/marufnishan111/Solutions/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/marufnishan111/Solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/marufnishan111/Solutions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/marufnishan111/Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/marufnishan111/Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/marufnishan111/Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/marufnishan111/Solutions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/marufnishan111/Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/marufnishan111/Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/marufnishan111/Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/marufnishan111/Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/marufnishan111/Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/marufnishan111/Solutions/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/marufnishan111/Solutions/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/marufnishan111/Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
