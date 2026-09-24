@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/marufnishan111/Solutions/tree/master/3024-type-of-triangle) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/marufnishan111/Solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/marufnishan111/Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/marufnishan111/Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/marufnishan111/Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/marufnishan111/Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/marufnishan111/Solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/marufnishan111/Solutions/tree/master/3024-type-of-triangle) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/marufnishan111/Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/marufnishan111/Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/marufnishan111/Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/marufnishan111/Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/marufnishan111/Solutions/tree/master/3875-construct-uniform-parity-array-i) |
